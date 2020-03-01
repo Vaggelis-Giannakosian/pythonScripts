@@ -1,7 +1,7 @@
 from PIL import Image, ImageFilter
 
 # OPEN IMAGE
-img = Image.open('./img/zoltan-tasi.jpg')
+img = Image.open('img/zoltan-tasi.jpg')
 
 # APPLY FILTER
 # filtered_image = img.filter(ImageFilter.SHARPEN)
